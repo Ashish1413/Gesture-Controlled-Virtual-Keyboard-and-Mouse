@@ -35,8 +35,8 @@ To create a gesture-based input system that allows users to control the mouse an
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ashwini-Manohar/Gesture-Controlled-Virtual-Keyboard-and-Mouse-Using-Machine-Learning.git
-cd Gesture-Controlled-Virtual-Keyboard-and-Mouse-Using-Machine-Learning
+git clone https://github.com/Ashish1413/Gesture-Controlled-Virtual-Keyboard-and-Mouse.git
+cd Gesture-Controlled-Virtual-Keyboard-and-Mouse
 
 2. Install Requirements
 

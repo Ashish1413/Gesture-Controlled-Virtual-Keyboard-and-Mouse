@@ -32,7 +32,7 @@ To create a gesture-based input system that allows users to control the mouse an
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/Ashwini-Manohar/Gesture-Controlled-Virtual-Keyboard-and-Mouse-Using-Machine-Learning.git
@@ -44,3 +44,7 @@ Make sure Python is installed, then run:
 pip install -r requirements.txt
 
 Or manually install key dependencies:
+pip install opencv-python mediapipe pyautogui numpy
+
+3. Run the System
+python main.py
